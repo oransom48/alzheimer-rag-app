@@ -6,3 +6,4 @@ langchain-huggingface
 sentence-transformers
 chromadb
 python-dotenv
+torchvision
